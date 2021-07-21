@@ -1,2 +1,4 @@
 # SkinStadiumConcept
-Concept for a website based on the popular game Counter Strike Global Offensive
+Concept for a website based on the popular game Counter Strike Global Offensive.
+
+Project was scrapped after Valve forbade websites based on the game.
